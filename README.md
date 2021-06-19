@@ -1,9 +1,9 @@
 
 ***
 
-# SNU-2D-ProgrammingTools-IDE-<languageNameWithHyphens>
+# SNU-2D-ProgrammingTools-IDE-Nix
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/LanguageLogo.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/NixOS_logo.svg)
 
 # By:
 
@@ -34,7 +34,7 @@ _🌐 List of languages_
 
 </details>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
 
@@ -46,13 +46,13 @@ Translations are done with Google Translate due to limited or no support for the
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-<LanguageNameWithHyphens>)
+> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-Nix)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>)
+[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_Nix)
 
 [02.0 - About](#About)
 
@@ -90,20 +90,20 @@ Translations are done with Google Translate due to limited or no support for the
 
 ***
 
-# SNU_2D_ProgrammingTools_IDE_<LanguageNameWithHyphens>
-The <LanguageName> Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+# SNU_2D_ProgrammingTools_IDE_Nix
+The Nix Programming language IDE submodule for SNU Programming Tools (2D Mode) 
 
 ***
 
 ## About
 
-See above. This repository is the IDE for <LanguageName> that comes with SNUs programming tool set.
+See above. This repository is the IDE for Nix that comes with SNUs programming tool set.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -149,7 +149,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of date, at xx:xx pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) -12  commits (As of Friday, June 18th 2021 at 6:25 pm)
 
 > * 2. No other contributers.
 
@@ -219,18 +219,11 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.md)
+[Project language file](PROJECT_LANG.nix)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix/discussions)
 
 No other resources at the moment.
-
-This is the first time I am using Markdown as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
-
-```gitattributes
-*.md linguist-detectable=true
-*.md linguist-documentation=false
-```
 
 ***
 
@@ -246,15 +239,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `1 (date)`
+File version: `1.1 (Friday, June 18th 2021 at 6:25 pm)`
 
-Line count: `0,314`
+Line count: `0,307`
 
 ***
 
 ## README version history
 
-Version 1 (Date)
+Version 1 (Friday, June 18th 2021 at 6:25 pm)
 
 > Changes:
 
